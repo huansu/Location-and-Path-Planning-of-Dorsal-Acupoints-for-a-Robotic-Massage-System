@@ -104,7 +104,7 @@ Please prepare the dataset YAML in Ultralytics pose format before training.
 
 This work builds upon and is inspired by several open-source projects that provide essential foundations for pose estimation, detection frameworks, and efficient model design. The following repositories are acknowledged in no particular order.
 
- **[Ultralytics YOLO](https://github.com/ultralytics/ultralytics)**
+- **[Ultralytics YOLO](https://github.com/ultralytics/ultralytics)**
 - **[MMPose](https://github.com/open-mmlab/mmpose)**
 - **[VSSD](https://github.com/YuHengsss/VSSD)**
 - **[DMDBAK](https://github.com/Ye-ChunZhe/DMDBAK)**
