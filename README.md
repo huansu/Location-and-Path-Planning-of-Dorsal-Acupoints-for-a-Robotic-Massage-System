@@ -1,6 +1,6 @@
 # *An Image-Guided System for Dorsal Acupoint Massage in Rehabilitation Care*
 
-> **Brief:** This repository contains code for dorsal acupoint localization and path planning for a robotic massage system.
+> **Brief:** This repository contains code for An Image-Guided System for Dorsal Acupoint Massage in Rehabilitation Care.
 ![pic](pic/pipeline.svg)
 ---
 
